@@ -149,16 +149,14 @@ Segnalazione Problemi:
 Se riscontri problemi o hai suggerimenti, apri una issue sul repository GitHub.
 
 Crediti
-Sviluppatore: [Il Tuo Nome]
+Sviluppatore: Alessandro Strina
 
 Versione: 1.0
 
 Licenza: MIT License
 
 Contatti
-Email: [La Tua Email]
-
-GitHub: [Link al Repository]
+Email: ascode74@gmail.com
 
 Grazie per aver scelto Assetto Corsa Car App (ACCA)! 🚗💨
 
