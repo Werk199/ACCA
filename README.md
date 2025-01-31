@@ -12,7 +12,8 @@ EXE
 Potete scaricare lo zip eseguibile tramite questo link:. 
 https://www.swisstransfer.com/d/72e54975-d5fb-41e6-8593-c6c84dbf3f79
 - Password: PowerLut
-...(Il link scadrà il 1/03/2025.)...
+
+-(Il link scadrà il 1/03/2025.)...
 
 L’eseguibile si trova nella cartella dist all’interno dell’archivio.
 
