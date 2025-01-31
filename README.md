@@ -8,7 +8,19 @@ Engine.ini: Consente di aggiungere una curva di torque personalizzata al file en
 
 Drivetrain.ini: Permette di visualizzare e modificare i valori delle sezioni [GEARS], [DIFFERENTIAL], e [GEARBOX] nel file drivetrain.ini.
 
-Requisiti di Sistema
+# EXE 
+potete scaricare lo zip eseguibile tramite questo link 
+https://www.swisstransfer.com/d/72e54975-d5fb-41e6-8593-c6c84dbf3f79 
+
+utilizzando la password: PowerLut
+
+il link scadrà il 1/03/2025
+
+- l'eseguibile si trova nella cartella [dist]
+
+
+
+#Requisiti di Sistema
 Python 3.x: L'applicazione è scritta in Python, quindi è necessario avere Python 3.x installato.
 
 Librerie Richieste:
