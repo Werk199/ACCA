@@ -1,5 +1,4 @@
-
-#Assetto Corsa Car App (ACCA)
+# Assetto Corsa Car App (ACCA)
 
 Introduzione
 Assetto Corsa Car App (ACCA) è un'applicazione progettata per gestire e modificare i file di configurazione delle auto in Assetto Corsa. L'applicazione è suddivisa in tre sezioni principali:
