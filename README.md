@@ -9,10 +9,10 @@ Assetto Corsa Car App (ACCA) è un'applicazione progettata per gestire e modific
 - Drivetrain.ini: Permette di visualizzare e modificare i valori delle sezioni [GEARS], [DIFFERENTIAL], e [GEARBOX] nel file drivetrain.ini.
 
 EXE
-Potete scaricare lo zip eseguibile tramite questo link: 
-Download Eseguibile
-Password: PowerLut
-(Il link scadrà il 1/03/2025.)
+Potete scaricare lo zip eseguibile tramite questo link:. 
+https://www.swisstransfer.com/d/72e54975-d5fb-41e6-8593-c6c84dbf3f79
+- Password: PowerLut
+...(Il link scadrà il 1/03/2025.)...
 
 L’eseguibile si trova nella cartella dist all’interno dell’archivio.
 
